@@ -9,4 +9,8 @@
 <p>Escreva o objetivo...</p>
 </br></br>
 <h2><b><div align = "center">Sequência cronológica do curso</div></b></h2>
-<p>Escreva em tópicos, a sequência...</>
+:dart: Variáveis e tipos de dados </br>
+:dart: Funções </br>
+:dart: Condicionais </br>
+:dart: Ciclos </br>
+:dart: Arrays </br>
