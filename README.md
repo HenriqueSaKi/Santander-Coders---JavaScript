@@ -26,7 +26,7 @@ let segundoValor; //Variável local
 
 </br></br>
 <h2><b><div align = "center">Funções</div></b></h2>
-<p>Escreva algo sobre... </p>
+<p>A função nada mais é do que um bloco de cógido que podemos invocar diversas vezes, ela pode ou não retornar um valor. Seu comando de escrita é o <b>function</b> e sua estrutura é basicamente como representado abaixo:</p>
 
 ```
 function nomeDaFuncao (value){
@@ -60,6 +60,14 @@ for(início; condição; modificador){
 }
 ```
 
+<p>Agora... Quando temos uma rotina que vai continuar sendo executada enquanto o resultado da condição estiver sendo verdadeira, utilizamos o comando <b>while</b>. Ele funcionará da seguinte maneira: </p>
+
+```
+while(condição){
+  //rotina
+}
+```
+
 </br></br>
 <h2><b><div align = "center">Arrays</div></b></h2>
 <p>Escreva algo sobre... </p>
@@ -78,3 +86,5 @@ console.log("O nome dessa posição é: "+arrayNomes[2]); //Peter
 <p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Produto.js">:trophy: Desafio - Produto :heavy_check_mark: </a></p></br>
 <p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Professora-Furiosa.js">:trophy: Desafio - Professora Furiosa :heavy_check_mark: </a></p></br>
 </br></br>
+
+
