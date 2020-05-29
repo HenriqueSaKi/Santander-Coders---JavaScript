@@ -52,7 +52,7 @@ else{
 <h2><b><div align = "center">Ciclos</div></b></h2>
 <p>É possível fazermos um programa realizar a mesma ação 'n' vezes, isso porque, no <b>JavaScript</b> temos o que chamamos de "Ciclos". Esses <b>Ciclos</b> podem ou não conter um intervalo determinado, o que diferencia é o comando que irá executar essa ação.</p></br>
 <p>Veja abaixo, como e quando utilizar essa função de <b>loop</b> no seu programa</p></br>
-<p>Quando sabemos a quantidade de vezes que o meu programa deve se repetir, significa que temos um intervalo pré-determinado, e se temos isso, saberemos quando o nosso laço irá começar e quando ele terminará. Nesse caso, podemos estar utilizando o comando <b>for</b> para executar essa ação. Segue abaixo seu modelo de escrita:</p>
+<p>Quando sabemos a quantidade de vezes que o meu programa deve se repetir, significa que temos um intervalo pré-determinado, e se temos isso, sabemos quando o nosso laço irá começar e quando ele terminará. Nesse caso, podemos estar utilizando o comando <b>for</b> para executar essa ação. Segue abaixo seu modelo de escrita:</p>
 
 ```
 for(início; condição; modificador){
