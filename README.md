@@ -18,7 +18,7 @@
 <p>Escreva algo sobre... </p>
 
 ```
-var primeiroValor;
+ var primeiroValor;
 let segundoValor;
 ```
 
@@ -37,8 +37,11 @@ function nomeDaFuncao (value){
 <p>Escreva algo sobre... </p>
 
 ```
-function nomeDaFuncao (value){
-  return value;
+if(condição){
+  //condição se for verdadeiro
+}
+else{
+  //condição se for falso
 }
 ```
 
@@ -48,7 +51,7 @@ function nomeDaFuncao (value){
 
 ```
 for(início; condição; modificador){
-   //código que será executado em cada repetição
+  //código que será executado em cada repetição
 }
 ```
 
