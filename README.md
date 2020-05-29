@@ -15,11 +15,13 @@
 :dart: Ciclos </br>
 :dart: Arrays </br></br>
 <h2><b><div align = "center">Variáveis e tipos de dados</div></b></h2>
-<p>Escreva algo sobre... </p>
+<p>Assim como a maioria das linguagens de programação, devemos chamar a variável dentro do programa, para que ela possa estar sendo reservada para armazenar determinado tipo de valor.</p></br>
+<p>No <b>JavaScript</b>, as variáveis podem ser declaradas de duas maneiras, sendo elas:</br><b>var</b> = variáveis globais</br><b>let</b> = variáveis locais</p></br>
+<p>Veja abaixo, como elas podem ser chamadas dentro de um programa:</p>
 
 ```
-var primeiroValor;
-let segundoValor;
+var primeiroValor; //Variável global
+let segundoValor; //Variável local
 ```
 
 </br></br>
@@ -34,7 +36,9 @@ function nomeDaFuncao (value){
 
 </br></br>
 <h2><b><div align = "center">Condicionais</div></b></h2>
-<p>Escreva algo sobre... </p>
+<p></p>
+
+<p>Veja abaixo, um exemplo genérico de como isso pode estar sendo utilizado no seu programa</p>
 
 ```
 if(condição){
@@ -47,7 +51,9 @@ else{
 
 </br></br>
 <h2><b><div align = "center">Ciclos</div></b></h2>
-<p>Escreva algo sobre... </p>
+<p>É possível fazermos um programa realizar a mesma ação 'n' vezes, isso porque, no <b>JavaScript</b> temos o que chamamos de "Ciclos". Esses <b>Ciclos</b> podem ou não conter um intervalo determinado, o que diferencia é o comando que irá executar essa ação.</p></br>
+<p>Veja abaixo, como e quando utilizar essa função de <b>loop</b> no seu programa</p></br>
+<p>Quando sabemos a quantidade de vezes que o meu programa deve se repetir, significa que temos um intervalo pré-determinado, e se temos isso, saberemos quando o nosso laço irá começar e quando ele terminará. Nesse caso, podemos estar utilizando o comando <b>for</b> para executar essa ação. Segue abaixo seu modelo de escrita:</p>
 
 ```
 for(início; condição; modificador){
