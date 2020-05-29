@@ -3,7 +3,7 @@
 <h3><div align = "center">2º Edição by Digital House</div></h3>
 </br>
 <h2><b><div align = "center">Introdução</div></b></h2>
-<p>Escreva a Introdução...</p>
+<p>Em Maio de 2020, o grupo Santander, junto à Digital House, realizaram um processo seletivo bem interessante, que permitia que tanto as pessoas que já possuiam conhecimentos relacionados à programação quanto as pessoas que estavam em busca de se conhecer profissionalmente, pudessem participar e ter a chance de se destacar e ser um dos escolhidos para fazer parte do grupo Santander como desenvolvedor JavaScript.</br>No entanto, às pessoas que realizassem o teste inicial de lógica básica já receberiam um curso online gratuito, para poderem se adentrar à esse mundo tecnológico.</p>
 </br></br>
 <h2><b><div align = "center">Objetivo</align></b></h2>
 <p>Esse repositório irá guardar de forma bastante clara, todos os conceitos e conhecimentos adquiridos com o curso de JavaScript fornecido pela Digital House.</p>
