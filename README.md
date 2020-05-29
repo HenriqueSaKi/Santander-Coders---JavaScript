@@ -6,7 +6,7 @@
 <p>Escreva a Introdução...</p>
 </br></br>
 <h2><b><div align = "center">Objetivo</align></b></h2>
-<p>Escreva o objetivo...</p>
+<p>Esse repositório irá guardar de forma bastante clara, todos os conceitos e conhecimentos adquiridos com o curso de JavaScript fornecido pela Digital House.</p>
 </br></br>
 <h2><b><div align = "center">Sequência cronológica do curso</div></b></h2>
 :dart: Variáveis e tipos de dados </br>
@@ -36,7 +36,7 @@ function nomeDaFuncao (value){
 
 </br></br>
 <h2><b><div align = "center">Condicionais</div></b></h2>
-<p>Escreva algo sobre...</p></br>
+<p>O uso de comandos condicionais, como o próprio nome já diz, determinam como o código deve se comportar de acordo com cada condição programada. Ele poderá ter 1, 2, 3 ou mais situações condicionais, e seus comandos são: <b>if</b>,<b>else</b> e/ou <b>else if.</b></p></br>
 <p>Veja abaixo, um exemplo genérico de como isso pode estar sendo utilizado no seu programa.</p>
 
 ```
@@ -70,7 +70,7 @@ while(condição){
 
 </br></br>
 <h2><b><div align = "center">Arrays</div></b></h2>
-<p>Escreva algo sobre... </p>
+<p>Um <b>Array</b> nos permite armazenar uma coleção de dados ordenados.</br>Sua estrutura é representada por dois colchetes '[ ]' que indicam respectivamente o início e o fim de um array. Para separar os valores dentro dele, utilizamos a vírgula ','.</br>Dentro de um array, podemos ter diversos tipos de dados, sejam elas em string, number, boolean e entre outros. A seguir, segue um exemplo da estrutura descrita:</p>
 
 ```
 let arrayNomes = ['Bárbara', 'Henrique', 'Peter'];
