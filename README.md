@@ -69,7 +69,7 @@ while(condição){
 
 ```
 let arrayNomes = ['Bárbara', 'Henrique', 'Peter'];
-console.log("O nome dessa posição é: "+arrayNomes[2]); //Peter
+console.log("O nome dessa posição é: "+arrayNomes[2]); //O nome dessa posição é: Peter
 ```
 
 </br></br>
