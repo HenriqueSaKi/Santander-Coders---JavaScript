@@ -18,7 +18,7 @@
 <p>Escreva algo sobre... </p>
 
 ```
- var primeiroValor;
+var primeiroValor;
 let segundoValor;
 ```
 
