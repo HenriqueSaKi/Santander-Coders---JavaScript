@@ -36,8 +36,7 @@ function nomeDaFuncao (value){
 
 </br></br>
 <h2><b><div align = "center">Condicionais</div></b></h2>
-<p></p>
-
+<p>Escreva algo sobre...</p></br>
 <p>Veja abaixo, um exemplo genérico de como isso pode estar sendo utilizado no seu programa</p>
 
 ```
