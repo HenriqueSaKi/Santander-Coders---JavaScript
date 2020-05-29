@@ -72,5 +72,10 @@ console.log("O nome dessa posição é: "+arrayNomes[2]); //Peter
 
 </br></br>
 <h1><b><div align = "center">Desafios Santander</div></b></h1>
-<p>Escreva algo sobre... </p>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-AlturaArvoreUtopica.js">:trophy: Desafio - Altura da Árvore Utópica :heavy_check_mark: </a></p></br>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Escada.js">:trophy: Desafio - Escada :heavy_check_mark: </a></p></br>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Fatorial.js">:trophy: Desafio - Fatorial :heavy_check_mark: </a></p></br>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-MaisMenos.js">:trophy: Desafio - Mais Menos :heavy_check_mark: </a></p></br>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Produto.js">:trophy: Desafio - Produto :heavy_check_mark: </a></p></br>
+<p><a href = "https://github.com/HenriqueSaKi/Santander_Coders-JavaScript/blob/master/Desafio-Professora-Furiosa.js">:trophy: Desafio - Professora Furiosa :heavy_check_mark: </a></p></br>
 </br></br>
