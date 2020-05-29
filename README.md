@@ -13,4 +13,35 @@
 :dart: Funções </br>
 :dart: Condicionais </br>
 :dart: Ciclos </br>
-:dart: Arrays </br>
+:dart: Arrays </br></br>
+<h2><b><div align = "center">Variáveis e tipos de dados</div></b></h2>
+<p>Escreva algo sobre... </p>
+
+```
+var primeiroValor;
+let segundoValor;
+```
+
+</br></br>
+<h2><b><div align = "center">Funções</div></b></h2>
+<p>Escreva algo sobre... </p>
+
+```
+function nomeDaFuncao (value){
+  return value;
+}
+```
+
+</br></br>
+<h2><b><div align = "center">Condicionais</div></b></h2>
+<p>Escreva algo sobre... </p>
+</br></br>
+<h2><b><div align = "center">Ciclos</div></b></h2>
+<p>Escreva algo sobre... </p>
+</br></br>
+<h2><b><div align = "center">Arrays</div></b></h2>
+<p>Escreva algo sobre... </p>
+</br></br>
+<h1><b><div align = "center">Desafios Santander</div></b></h1>
+<p>Escreva algo sobre... </p>
+</br></br>
