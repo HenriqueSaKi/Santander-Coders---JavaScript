@@ -35,12 +35,32 @@ function nomeDaFuncao (value){
 </br></br>
 <h2><b><div align = "center">Condicionais</div></b></h2>
 <p>Escreva algo sobre... </p>
+
+```
+function nomeDaFuncao (value){
+  return value;
+}
+```
+
 </br></br>
 <h2><b><div align = "center">Ciclos</div></b></h2>
 <p>Escreva algo sobre... </p>
+
+```
+for(início; condição; modificador){
+   //código que será executado em cada repetição
+}
+```
+
 </br></br>
 <h2><b><div align = "center">Arrays</div></b></h2>
 <p>Escreva algo sobre... </p>
+
+```
+let arrayNomes = ['Bárbara', 'Henrique', 'Peter'];
+console.log("O nome dessa posição é: "+arrayNomes[2]); //Peter
+```
+
 </br></br>
 <h1><b><div align = "center">Desafios Santander</div></b></h1>
 <p>Escreva algo sobre... </p>
